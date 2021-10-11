@@ -13,5 +13,5 @@ It explores the data of a bike store
 Include the files used
 
 ### Credits
-I got help from Kwezi, various git hub repos as well
+I got help from Kwezi, various git hub repos as well. This project has been interesting.
 
