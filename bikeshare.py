@@ -162,10 +162,10 @@ def raw_data (df):
     """Displays the data due filteration.
     5 rows will added in each press"""
     print('press enter to see row data, press no to skip')
-    x = 0
+    row = 0
     while (input()!= 'no'):
-        x = x+5
-        print(df.head(x))
+        row = row+5
+        print(df.head(row))
 
 
 def main():
