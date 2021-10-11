@@ -7,11 +7,11 @@
 Explore US Bikeshare Data
 
 ### Description
-It explores 
+It explores the data of a bike store
 
 ### Files used
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I got help from Kwezi, various git hub repos as well
 
